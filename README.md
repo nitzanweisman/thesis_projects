@@ -38,7 +38,7 @@ To understand the diverse environmental conditions shaping sorghum ecotypes, a d
 
     *Figure 1: PCA Biplot of Sorghum Ecotype Origin Environments*
     *(Thesis Figure 3: Illustrates complex multi-dimensional environmental data. PCA loading vectors (arrows) offer insights into variable relationships. For example, water availability parameters show varying directions, suggesting complex patterns beyond simple correlations. Seasonal temperature difference and annual precipitation loading vectors are in opposite directions, fitting known patterns of high rainfall and minimal seasonal temperature variation in tropical climates versus less precipitation and high temperature variance in semi-arid climates. The separation of tropical and semi-arid climate types is visible.)*
-    `![PCA Biplot](pca.png)`
+    ![PCA Biplot](pca.png)
 
 ### Key Findings from PCA
 
@@ -83,7 +83,7 @@ This analysis aimed to identify which environmental factors from ecotype origin 
 
     *Figure 2: Relationship between Significant Predictors and ΔAmplitude*
     *(Thesis Figure 11: Illustrates correlations between ΔAmplitude and average multi-model selected significant environmental parameters: Annual Precipitation, Growing Season Length, and Max PAR.)*
-    `![MMA Predictor Plot](amp.png)`
+    ![MMA Predictor Plot](amp.png)
 
 ### Key Findings from MMA
 
